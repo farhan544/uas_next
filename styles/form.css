@@ -1,0 +1,76 @@
+#formedit{
+    background-color: #5cd4f8;
+    width:600px;
+}
+
+#formadd{
+    background-color: #595c5b;
+    width:600px;
+}
+
+#formadd h3{
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+  }
+  
+  tr, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid rgb(105, 86, 86);
+  }
+  
+  tr {
+    background-color: white;
+  }
+
+input[type=submit]{
+    background-color: #274d58;
+    color: white;
+    border-width: 0.5px;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+input[type=button]{
+    background-color: #fc3c1a;
+    color: white;
+    border-width: 0.5px;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+/* thead{
+    background-color : skyblue;
+    color : black;
+} */
+
+.tomboledit{
+    background-color: #5cd4f8;
+    border-width: 0.5px;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.tombolhapus{
+    background-color: #fc3c1a;
+    color : white;
+    border-width: 0.5px;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.show{
+    display: inline, !important;
+}
+
+.hide{
+    display: none;
+}
